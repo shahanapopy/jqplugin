@@ -1,0 +1,63 @@
+/*counter start*/
+h2{
+	color: white;
+	font-size: 50px;
+}
+.count{
+	background-color: #999;
+	min-height: 100px;
+}
+/*counter end*/
+/*wow start*/
+.wowplugin{
+	padding-top: 100px;
+}
+.red{
+	background-color: red;
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	display: inline-block;
+}
+.green{
+	background-color: green;
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	display: inline-block;
+}
+.blue{
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	display: inline-block;
+}
+/*wow end*/
+/*parallax start*/
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.p{
+	min-height: 100px;
+	font-size: 30px;
+	color: green;
+}
+
+/*parallax end*/
+/*slick slider start*/
+/*slick slider end*/
+/*curved text start here*/
+.c_text1{
+	background-color: skyblue;
+}
+#text2
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #d81c82;
+}
+/*curved text end here*/
